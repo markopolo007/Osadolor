@@ -18,5 +18,6 @@ List our your certifications and/or link to them. Also include the ones you plan
 
 |     Certification     |               Completed?               |     Link       |
 | --------------------  | -------------------------------------- | ---------------| 
-| CompTIA Security+     |                xx/12/24                |     https://www.credly.com/badges/029f32ca-bf75-4e97-a84b-b7dc904e08ef        | 
+| CompTIA Security+     |                16/12/24                |     https://www.credly.com/badges/029f32ca-bf75-4e97-a84b-b7dc904e08ef        | 
+| Azure Fundamentals    |                28/10/24                |     https://learn.microsoft.com/en-ie/users/eseosaosadolor-5471/credentials/574c3c30697e2992?ref=https%3A%2F%2Fwww.linkedin.com%2F       |
 
