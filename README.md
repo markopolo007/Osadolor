@@ -18,5 +18,5 @@ List our your certifications and/or link to them. Also include the ones you plan
 
 |     Certification     |               Completed?               |     Link       |
 | --------------------  | -------------------------------------- | ---------------| 
-| CompTIA Security+     |                xx/xx/xx                |     xxx        | 
+| CompTIA Security+     |                xx/12/24                |     https://www.credly.com/badges/029f32ca-bf75-4e97-a84b-b7dc904e08ef        | 
 
